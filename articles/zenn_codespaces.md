@@ -25,7 +25,7 @@ zenn cliを用いたzenn.devの執筆体験がすごくよかったので、beta
 
 ![プレビューも使えるよ](https://storage.googleapis.com/zenn-user-upload/vtqc0yskn0uymm7rib20y6wv03rw)
 
-- npxコマンドももちろん使えるし、package.json読んでてくれるか`npx zenn`コマンドも使えるので、プレビューも見ながら作業できます。
+- npxコマンドももちろん使えるし、package.json読んでてくれているのか`npx zenn`コマンドも使えるので、プレビューも見ながら作業できます。
 
 # 感想
 - codespacesすごくいいかもしれない

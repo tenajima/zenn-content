@@ -1,5 +1,5 @@
 ---
-title: "codespacesを使ってzenn.devに記事を作ってみる"
+title: "iPadからcodespacesを使ってzenn.devに記事をを公開してみる"
 emoji: "📝"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [zenn, github, codespaces, vscode]
@@ -8,8 +8,9 @@ published: false
 
 # 概要
 
-zenn cliを用いたzenn.devの執筆体験がすごくよかったので、beta版を申請していて使ってなかったcodespacesを使ってzenn.devの記事を書いてみようという試みをしてみました。
+zenn cliを用いたzenn.devの執筆体験がすごくよかったので、beta版を申請していたcodespacesを使ってzenn.devの記事を書いてみようという試みをしてみました。
 あんまり何の意味があるかわかりませんが、せっかくなのでiPadでcodespacesを使ってやってみます。
+[codespacesについて](https://github.co.jp/features/codespaces)
 
 # 作業風景
 
@@ -24,7 +25,7 @@ zenn cliを用いたzenn.devの執筆体験がすごくよかったので、beta
 
 ![プレビューも使えるよ](https://storage.googleapis.com/zenn-user-upload/vtqc0yskn0uymm7rib20y6wv03rw)
 
-- npxコマンドももちろん使えるし、おそらくpackage.json読んでてくれるので`npx zenn`コマンドも使えるので、プレビューも見ながら作業できます。
+- npxコマンドももちろん使えるし、package.json読んでてくれるか`npx zenn`コマンドも使えるので、プレビューも見ながら作業できます。
 
 # 感想
 - codespacesすごくいいかもしれない
@@ -33,3 +34,5 @@ zenn cliを用いたzenn.devの執筆体験がすごくよかったので、beta
 - 今回は色物的に使ってみたけど個人開発では恒常的につかってみようとおもいます
 - zenn.devの執筆体験はすごくいいなぁ
 - (余談)iPadとキーボードの相性は頑張ってるんだろうけどまだまだ使いづらいと感じました
+
+もしcodespacesに興味が湧いた方は2020年11月7日現在、beta申請が必要となるので申請してみてください。

@@ -72,7 +72,7 @@ https://github.com/tenajima/f81_advent_calendar_2020
 
 - 弊社`scala`好きに向けて`scala`に近いワードも取得してみます
 - いかがですかね?
-- それっぽいライブラリの名前とかがある気がします
+- それっぽいライブラリの名前がある気がします
 ![scalaの結果](https://storage.googleapis.com/zenn-user-upload/pomx9uye45rea0m5g9no3ycuztrd)
 
 ## Word2Vecならではの遊びで遊んで見る
@@ -86,7 +86,7 @@ https://github.com/tenajima/f81_advent_calendar_2020
 
 次は「python」 + 「機械学習」を試してみます
 ![何が出るかなー](https://storage.googleapis.com/zenn-user-upload/im5abgpo0nhz54f185mqf6wjkp27)
-機械学習に強く引っ張られている気がしますが、`sklearn`が出ているのは嬉しいです。
+機械学習に強く引っ張られている気がしますが、`sklearn`が出ているのは個人的に嬉しいです。
 
 この演算は「何が出るかなー」と遊んでみるのは楽しいですが、どんな場面で使えるかわ現状浮かんでいません...
 

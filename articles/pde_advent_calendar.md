@@ -5,7 +5,7 @@ type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["GCP", "bigquery"]
 published: false
 ---
-この記事はUniposアドベントカレンダー4日目の記事です！
+この記事は[IT資格取得をテーマに学びをシェアしよう！【PR】Udemy Advent Calendar 2021](https://qiita.com/advent-calendar/2021/udemy)10日目の記事です！
 
 つい先日Professional Data Engineerを取得したので、どのように勉強することで合格に至ったかを残しておこうと思います
 

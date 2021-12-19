@@ -1,6 +1,6 @@
 ---
 title: "データ民主化を進めてデータを資産に、Unipos社がLookerを導入した経緯"
-emoji: "📝"
+emoji: "📊"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Looker", "GCP", "bigquery"]
 published: false

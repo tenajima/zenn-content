@@ -1,6 +1,6 @@
 ---
-title: "dbtのベストプラクティスを読んでいくぅ"
-emoji: "⛳"
+title: "ベストプラクティスから読んで始めるdbt"
+emoji: "🛵"
 type: "tech"
 topics: [dbt]
 published: false

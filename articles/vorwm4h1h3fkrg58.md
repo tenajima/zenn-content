@@ -1,6 +1,6 @@
 ---
 title: "データモデリングによって何を解決したいのか"
-emoji: ""
+emoji: "🕸️"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["dbt", "データモデリング"]
 published: false
